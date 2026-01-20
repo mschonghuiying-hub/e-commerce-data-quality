@@ -1,5 +1,5 @@
 
-# E-commerce Pricing & Delivery Cost Intelligence
+# E-commerce Pricing Data Quality
 ## Overview:
 This project simulates a real-world e-commerce analytics problem: ensuring pricing, delivery charges, and revenue calculations are accurate, consistent, and decision-ready before being used by finance, operations, or strategy teams. Rather than focusing on model performance alone, the emphasis is on data quality, business rule validation, and commercial logic, the foundation required for trustworthy analytics and pricing decisions.
 
